@@ -11,3 +11,4 @@ function add() {
         document.getElementById("name").value = "";
     }
 }
+
